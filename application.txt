@@ -1,0 +1,4 @@
+spring.application.name=7-SpringBootEmpView2View7
+server.port=9876
+spring.mvc.view.prefix=/views/
+spring.mvc.view.suffix=.jsp
